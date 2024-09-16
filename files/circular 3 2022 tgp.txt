@@ -1,0 +1,66 @@
+TESORERÍA GENERAL DE LA PROVINCIA DE TUCUMÁN —o MINISTERIO DE ECONOMIA - SECRETARÍA DE ESTADO DE HACIENDA TUCUMÁN “Ncentenario de la dependenci 0102016
+San Miguel De Tucumán, 27 de diciembre de 2022
+CIRCULAR T.G.P. N2 3/2022
+A LOS ORGANISMOS CENTRALIZADOS, DESCENTRALIZADOS, AUTARQUICOS,
+PODERES DEL ESTADO, MINISTERIO PUBLICO FISCAL, MINISTERIO PUPILAR Y
+DE LA DEFENSA, TRIBUNAL DE CUENTAS Y TRIBUNAL FISCAL.
+TEMA: RECOMENDACIONES DE CIERRE DE EJERCICIO 2022.
+En carácter de Órgano Rector del Sistema de Tesorería y a fin de tener un cierre de ejercicio
+ajustado a la realidad se establecen las siguientes aclaraciones y recomendaciones:
+Usuarios 2022/2023:
+*El dia 30/12/2022 a las 16 hs. se bloquearán todos los usuarios de las bases TUCU22 y
+TUAUTA22 con perfiles de Tesorería, Contaduría y Presupuesto. Los mismos se habilitarán
+nuevamente según se detalla a continuación:
+- El día 02/01/2023 se desbloquearán aquellos usuarios pertenecientes a Tesorería
+Gral. De la Provincia, Contaduría Gral. De la Provincia y Dirección Gral. De Presupuesto.
+- El día 05/01/2023 hasta el 31/03/2023 inclusive, se restablecerán los usuarios de
+Organismos centralizados (SAF — Tesorerías Jurisdiccionales), Descentralizados, Autárquicos,
+Poderes del Estado, Tribunal de Cuentas, Tribunal Fiscal de Apelación, Ministerio Público
+Fiscal y Ministerio Pupilar y de la defensa. (Según Circular n* 24 de CGP del 22/11/2022).
+En todos los casos se encontrará bloqueada a partir del 02/01/2023 la opción para
+“confirmar” pagos tanto en la base TUCU22 como en TUAUTA22, quedando habilitados
+“únicamente los botones para “entregar” y “conciliar” pagos con cheques y PE (pagos
+_Í¿Ect 'Ónicos). También permanecerá habilitado el módulo de conciliaciones. Las opciones
+permanecerán en ese estado salvo instrucciones de órganos rectores.
+| ejercicio 2023 se habilitará con el Decreto de puesta a disposición. Los perfiles
+s usuarios en base 2022 se replicarán para la base 2023, salvo excepciones.
+de nuevos usuarios con perfil de tesorería, o para agregar/quitar permisos
+xistentes, deberán presentar nota en Tesorería Gral. de la Provincia
+T4000CVH, San Miguel de Tucumán — www.mecontuc.gov.ar/tesoreria - dpto_tecnico@mecontuc.gov.ar
+impulsado por CamScanner
+—
+TESORERÍA GENERAL DE LA PROVINCIA DE TUCUMÁN —]B MINISTERIO DE ECONOMIA - SECRETARÍA DE ESTADO DE HACIENDA TUCUMÁN “Bicntenaro de la Independencia
+* Para incorporación de permisos para migrar, se debe completar y presentar en tesorería el
+formulario subido en la página web de TGP, únicamente para aquellos usuarios que en
+ejercicios anteriores no hayan solicitado dicho permiso ya que los perfiles 2022 se
+replicarán en la base 2023.
+Recomendaciones:
+e Al cierre del ejercicio 2022 deberán estar registrados la totalidad de Ingresos y Egresos en
+las correspondientes Cuentas Bancarias.
+elLos comprobantes impagos al 31/12/2022 deberán ser migrados a la base TUCU23,
+siempre que corresponda, cumpliendo con lo establecido en Circular Conjunta CGP-TGP N2
+1 de fecha 04/01/2021.
+eLas devoluciones a cuentas del Superior Gobierno deberán ser efectuadas hasta el
+30/12/2022, sin excepción (devoluciones de Anticipos, Fondos Fijos, Gastos, Sueldos, etc.).
+Aclaramos que los depósitos en la Bancaria N% 360000200851394 — “SGP FDOS. DE
+TERCEROS” deberán efectuarse, únicamente, cuando exista certeza de pago de lo contrario
+los fondos deberán ser depositados en la Bancaria N2 360000200970918 —“SGP Z/05 -
+RENTAS GENERALES”.
+e Al 30/12/2022 deberá estar registrada en el sistema SAFyC la conciliación bancaria del mes
+de noviembre de la totalidad de las cuentas bancarias pertenecientes a cada repartición.
+Aclaramos que las conciliaciones deben ser mensuales.
+eLa conciliación del mes de diciembre de 2022 podrá ser registrada o modificada hasta el
+— día 20/01/2023, dentro de la base TUCU22.
+— elas Órdenes de Pago originadas en instrumentos Legales del año 2022 intervenidos sin
+— observacién por el TC o con Acuerdos favorables para las Jurisdicciones de la Administración
+3 Central se aprobarán hasta el 13/01/2023, y seran recibidas por Tesorería General de la
+— Provincia hasta el día 18/01/2022 (según Res. N*180 CGP del 22/11/2022).
+Ljas Órdenes de Pago emitidas por las Jurisdicciones de la Administración Central deben
+"ar intervenidas por el Contador Fiscal del TC, caso contrario, en forma inmediata deberán
+'evertir la misma antes del 18/01/2023 (según Res. N*180 CGP del 22/11/2022).
+| debidamente notificados a partir de la publicación de la presente, en la página web
+GP: http://tesoreria.mecontuc.gov.ar/
++
+EMENTE de GUEVARA % GENERAL VNEl
+FAOOOCVH, San Miguel de Tucumán — www.mecontuc.gov.ar/tesoreria - dpto_tecnico@mecontuc.gov.ar
+impulsado por CamScanner
